@@ -2,7 +2,7 @@
 
 > **De top 10 finance skills wereldwijd verwerkt in 1 skill voor Claude.**
 
-Deze skill bundelt de beste financiële analyseframeworks en werkwijzen uit de wereld in één geïntegreerde Claude-skill, speciaal gebouwd voor B2B bedrijven in de verduurzamingssector (zoals Voltera).
+Deze skill bundelt de beste financiële analyseframeworks en werkwijzen uit de wereld in één geïntegreerde Claude-skill, speciaal gebouwd voor B2B bedrijven in de verduurzamingssector .
 
 ## Wat zit erin?
 
