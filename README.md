@@ -1,4 +1,4 @@
-# Voltera Finance Skill voor Claude
+# Finance Skill voor Claude
 
 > **De top 10 finance skills wereldwijd verwerkt in 1 skill voor Claude.**
 
